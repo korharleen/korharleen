@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Harleen Kaur
-- 👩 I am into Business Development by Profession.
+- 👩 I am a working professional carrying a 3+ years of experience in Business growth and Managemnet.
 - 👀 I’m keen towards craving my journey in the Data Analytics Domain.
-- 🌱 I’m currently Self learning SQL,Excel,Tableau.
-- ⌛️  Started my Learning journey from  August 2022.
+- 👩‍💻 My skills include SQL, TABLEAU, PYTHON, EXCEl.
 - 🙌 Reach me at
         [Medium](https://dharleen22.medium.com/)
        [Linkedin](https://www.linkedin.com/in/harleenkaur96/)
