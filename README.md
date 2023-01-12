@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harleen Kaur
-- 👩 I am a working professional carrying a 3+ years of experience in Business growth and Managemnet.
+- 👩 I am a working professional carrying a 3.5+ years of experience.
 - 👀 I’m keen towards the Data Analytics Domain.
 - 👩‍💻 My skills include SQL, TABLEAU, PYTHON, EXCEl.
 - 🙌 Reach me at
